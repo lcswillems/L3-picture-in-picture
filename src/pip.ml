@@ -133,11 +133,10 @@ module Pip (K : Kahn.S) = struct
             (manager ());
             (blender (100, 100) (300, 150));
             (television ());
-            (remoteControl ())
-            ]
+            (remoteControl ())]
 end
 
 let () = init_frame 200 200
 
-module E = Pip(Kahn_tube_thread.Tube)
+module E = Pip(Kahn_seq.Seq)
 let () = E.K.run E.main
