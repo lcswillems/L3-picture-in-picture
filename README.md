@@ -1,6 +1,6 @@
 # Picture-in-Picture
 
-Ce projet consiste en la réalisation, d'abord, de trois implémentations des réseaux de Kahn, et ensuite, d'un système de Picture-in-Picture (PiP) utilisant l'implémentation de ces réseaux. Ce projet a été réalisé par Joseph Marotte et [Lucas Willems](http://www.lucaswillems.com) pour le cours de [Systèmes et réseaux](http://www.di.ens.fr/~pouzet/cours/systeme/) donné par Marc Pouzet et Timothy Bourke pour la L3 d'informatique de l'ENS Ulm.
+Ce projet consiste en la réalisation, d'abord, de trois implémentations des réseaux de Kahn, et ensuite, d'un système de Picture-in-Picture (PiP) utilisant l'implémentation de ces réseaux. Ce projet a été réalisé par Joseph Marotte et [Lucas Willems](http://www.lucaswillems.com) pour le cours "[Systèmes et réseaux](http://www.di.ens.fr/~pouzet/cours/systeme/)" donné par Marc Pouzet et Timothy Bourke pour la L3 d'informatique de l'ENS Ulm.
 
 ## Structure du projet
 
