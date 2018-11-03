@@ -1,10 +1,14 @@
 # Picture-in-Picture
 
-Ce projet consiste en la réalisation, d'abord, de trois implémentations des réseaux de Kahn, et ensuite, d'un système de Picture-in-Picture (PiP) utilisant l'implémentation de ces réseaux. Ce projet a été réalisé par Joseph Marotte et [Lucas Willems](http://www.lucaswillems.com) pour le cours "[Systèmes et réseaux](http://www.di.ens.fr/~pouzet/cours/systeme/)" donné par Marc Pouzet et Timothy Bourke pour la L3 d'informatique de l'ENS Ulm.
+Ce dépôt contient un système de Picture-in-Picture (PiP) pouvant utiliser 3 implémentations des réseaux de Kahn différentes.
 
-## Structure du projet
+Ce projet a été réalisé par Joseph Marotte et [Lucas Willems](http://www.lucaswillems.com) pour le cours "[Systèmes et réseaux](http://www.di.ens.fr/~pouzet/cours/systeme/)" donné par Marc Pouzet et Timothy Bourke pour la L3 d'informatique de l'ENS Ulm.
 
-Le projet (dans le dossier `src`) contient un `Makefile` permettant d'exécuter les 2 commandes :
+En plus du Picture-in-Picture (dans le dossier `Code`), ce dépôt contient un rapport sur le Picture-in-Picture.
+
+## Structure du code
+
+Le projet (dans le dossier `Code`) contient un `Makefile` permettant d'exécuter les 2 commandes :
 - `make pip` : pour compiler notre Picture-in-Picture
 - `make example` : pour compiler l'exemple du sujet utilisant les réseaux de Kahn
 
